@@ -2,6 +2,7 @@
 
 Just testing cookiecutter for the workshop. Nothing fancy (yet).
 
+_By the way, have a look at the cool things that Mateusz has been doing [in space](https://github.com/mkuzak/pluto)!_
 
 
 ## License
