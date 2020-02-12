@@ -1,3 +1,4 @@
+[![DOI](https://sandbox.zenodo.org/badge/239756064.svg)](https://sandbox.zenodo.org/badge/latestdoi/239756064) 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samnooij/reproducible_science_workshop-20200211/master?filepath=analysis%2FGapminder.ipynb)
 
 # Workshop_test
