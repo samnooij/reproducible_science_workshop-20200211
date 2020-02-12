@@ -14,3 +14,21 @@ Introduce Jupyter notebooks.
 ## License
 
 This project is licensed under the terms of the [Apache license](/LICENSE.md)
+
+## Citation
+
+### Bibtex
+
+```bibtex
+@software{samnooij_2020_494278,
+  author       = {samnooij},
+  title        = {{samnooij/reproducible\_science\_workshop-20200211: 
+                   Demo release}},
+  month        = feb,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v0},
+  doi          = {10.5072/zenodo.494278},
+  url          = {https://doi.org/10.5072/zenodo.494278}
+}
+```
